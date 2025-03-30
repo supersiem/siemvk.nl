@@ -1,2 +1,2 @@
 # siemvk.nl
-mijn protfolio
+mijn portfolio
