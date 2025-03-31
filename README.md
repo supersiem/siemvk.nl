@@ -1,2 +1,0 @@
-# siemvk.nl
-mijn portfolio
